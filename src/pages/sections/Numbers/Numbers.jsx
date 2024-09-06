@@ -43,10 +43,10 @@ const Numbers = () => {
       </div>
       <div className="mx-auto max-w-7xl px-6 lg:px-8 rtl font-noto">
         <div className="mx-auto max-w-6xl lg:mx-0">
-          <h2 className="text-2xl font-bold tracking-tight text-white sm:text-6xl" data-aos="fade-left">
+          <h2 className="text-2xl font-bold tracking-tight text-white sm:text-6xl" data-aos="fade-down">
             ساهم فالحفاظ على الحرفة المغربية{" "}
           </h2>
-          <p className="mt-6 text-lg leading-8 text-white" data-aos="fade-left">
+          <p className="mt-6 text-lg leading-8 text-white" data-aos="fade-down">
             حنا فهاد المنصة، كنآمنو بأن كل واحد منا عندو دور باش يساهم فالحفاظ
             على الحرفة المغربية وتنميتها<br /> الهدف ديالنا هو نبنيو مجتمع ديال الناس
             اللي كيحبو الصناعة التقليدية وباغيين يشجعوها بطرق مختلفة

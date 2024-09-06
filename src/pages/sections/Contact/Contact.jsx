@@ -5,10 +5,10 @@ const Contact = () => {
     <section id="section4" className="py-10 bg-gray-100 sm:py-16 lg:py-24 rtl font-noto">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl mt-10">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl lg:text-5xl" data-aos="fade-left">
+          <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl lg:text-5xl" data-aos="fade-down">
             تواصل معنا
           </h2>
-          <p className="max-w-xl mx-auto mt-4 text-base leading-relaxed text-gray-500" data-aos="fade-left">
+          <p className="max-w-xl mx-auto mt-4 text-base leading-relaxed text-gray-500" data-aos="fade-down">
             إلا عندك شي استفسار ولا بغيت تسولنا على شي حاجة، مترددش تواصل معنا.
             حنا هنا باش نساعدوك!
           </p>

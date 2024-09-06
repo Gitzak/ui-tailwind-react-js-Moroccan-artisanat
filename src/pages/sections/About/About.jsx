@@ -44,19 +44,19 @@ const About = () => {
             <div className="lg:max-w-lg">
               <p
                 className="text-base font-semibold leading-7 text-red-600"
-                data-aos="fade-left"
+                data-aos="fade-down"
               >
                 علاش
               </p>
               <h1
                 className="mt-2 text-4xl  font-bold tracking-tight text-gray-900 leading-normal"
-                data-aos="fade-left"
+                data-aos="fade-down"
               >
                 شنو هو هاد الموقع؟
               </h1>
               <p
                 className="mt-2 text-2xl leading-10 text-gray-700"
-                data-aos="fade-left"
+                data-aos="fade-down"
               >
                 هاد الموقع هو منصة مغربية 100% كتهتم بالصانع التقليدي والصانعة
                 التقليدية المغربية. الهدف ديالنا هو نعرضو لك منتوجات اللي معمولة

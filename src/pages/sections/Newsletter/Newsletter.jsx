@@ -7,14 +7,14 @@ const Newsletter = () => {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2">
           <div className="max-w-xl lg:max-w-lg">
-            <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl" data-aos="fade-left">
+            <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl" data-aos="fade-down">
               سجل فالنشرة البريدية ديالنا
             </h2>
-            <p className="mt-4 text-lg leading-8 text-gray-300" data-aos="fade-left">
+            <p className="mt-4 text-lg leading-8 text-gray-300" data-aos="fade-down">
               كون على تواصل معانا وتوصل بأخبار وآخر المستجدات ديال الصناعة
               التقليدية المغربية، وكلشي بلغة ديالك.
             </p>
-            <div className="mt-6 flex max-w-md gap-x-4" data-aos="fade-left">
+            <div className="mt-6 flex max-w-md gap-x-4" data-aos="fade-down">
               <label htmlFor="email-address" className="sr-only">
                 البريد الإلكتروني
               </label>
@@ -36,7 +36,7 @@ const Newsletter = () => {
             </div>
           </div>
           <dl className="grid grid-cols-1 gap-x-8 gap-y-10 sm:grid-cols-2 lg:pt-2">
-            <div className="flex flex-col items-start" data-aos="fade-left">
+            <div className="flex flex-col items-start" data-aos="fade-down">
               <div className="rounded-md bg-white/5 p-2 ring-1 ring-white/10">
                 <CalendarDaysIcon
                   aria-hidden="true"
@@ -49,7 +49,7 @@ const Newsletter = () => {
                 والحرف المغربية.
               </dd>
             </div>
-            <div className="flex flex-col items-start" data-aos="fade-left">
+            <div className="flex flex-col items-start" data-aos="fade-down">
               <div className="rounded-md bg-white/5 p-2 ring-1 ring-white/10">
                 <HandRaisedIcon
                   aria-hidden="true"
