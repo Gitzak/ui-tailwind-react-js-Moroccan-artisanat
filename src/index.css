@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Style for the entire scrollbar */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+  }
+  
+  /* Style for the scrollbar thumb (the part you drag) */
+  ::-webkit-scrollbar-thumb {
+    background-color: #2c2c2c; /* Dark gray */
+  }
+  
+  /* Style for the scrollbar track (the background) */
+  ::-webkit-scrollbar-track {
+    background-color: #f3f4f6; /* Light gray */
+    border-radius: 6px;
+  }
