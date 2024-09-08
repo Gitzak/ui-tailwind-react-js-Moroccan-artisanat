@@ -13,8 +13,8 @@ function App() {
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<HomePage />} />{" "}
-                <Route path="/blog/:slug" element={<BlogPost />} />{" "}
+                <Route path="/" element={<HomePage />} />
+                <Route path="/blog/:slug" element={<BlogPost />} />
             </Routes>
         </Router>
     );
