@@ -13,6 +13,7 @@ import Testimonial from './sections/Testimonial/Testimonial'
 import Contact from './sections/Contact/Contact'
 
 const HomePage = () => {
+  
   return <MainLayout>
     <Hero />
     <About />
